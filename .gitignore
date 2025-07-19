@@ -1,0 +1,94 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variable files
+*.env
+.env.*
+
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Python egg info
+*.egg-info/
+*.egg
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# MyPy
+.mypy_cache/
+
+# Pyre
+.pyre/
+
+# Pytype
+.pytype/
+
+# IDE-specific files (e.g. JetBrains)
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# SQLite database files
+*.sqlite3
+db.sqlite3
+
+# Local development artifacts
+*.bak
+*.tmp
+*.swp
+
+# Django specific
+staticfiles/
+media/
+
+# Node.js (if used for frontend)
+node_modules/
+npm-debug.log
+yarn-error.log
