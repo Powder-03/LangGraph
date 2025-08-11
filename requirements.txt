@@ -5,3 +5,5 @@ langchain-google-genai
 google-generativeai
 python-dotenv
 langgraph
+pydantic
+langchain-openai
